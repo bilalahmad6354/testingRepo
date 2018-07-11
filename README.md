@@ -1,4 +1,3 @@
 # testingRepo
 
-
-#testing repo is a great source to learn github
+# Tested Design Chnages needs to be deployed
